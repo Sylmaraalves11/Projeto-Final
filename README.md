@@ -35,6 +35,7 @@ Siga o menu interativo para cadastrar doadores, registrar doações e pedidos.
 
 Testes
 Para rodar os testes (arquivo test_main.py):
+(python -m unittest test_main.py)
 
 bash
 Copiar
